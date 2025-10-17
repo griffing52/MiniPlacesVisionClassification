@@ -1,0 +1,6 @@
+# see notebooks or models
+VAE
+
+# see data_processing/augmentation.py
+More data by flipping/rotating images slightly 
+Add slightly random data over images
